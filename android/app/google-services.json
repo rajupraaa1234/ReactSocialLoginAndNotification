@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817072110948",
+    "project_id": "reactsociallogin-124b6",
+    "storage_bucket": "reactsociallogin-124b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817072110948:android:0ecc979c9e501e42c84e71",
+        "android_client_info": {
+          "package_name": "com.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817072110948-c5l5pg0225v4og0pcvbrq25vtfgh9d1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHvB70qMYmOl0fUY4UUmXhAQ-lFmDpvkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817072110948-c5l5pg0225v4og0pcvbrq25vtfgh9d1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
